@@ -1,0 +1,4 @@
+Radio CMS SQL Injection Exploit 2.6( последняя версия)
+Зависимости: Админские права или аккаунт диджея
+Vuln: target/playlist_view.php?playlist_id=2&sort=[VULN]&search=&start=0
+Vulnerability 0-day 2019 found by me(RABBITPyL9)
